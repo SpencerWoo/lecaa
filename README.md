@@ -8,8 +8,8 @@ Prepare list of serials:
 
     ./prepare-lecaa
 
-(This will download a list of affected certificates, extract the
-serial numbers and sort them.)
+(This will download a list of affected certificates and extract the
+serial numbers.)
 
 Run:
 
